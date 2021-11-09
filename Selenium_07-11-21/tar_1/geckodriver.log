@@ -1,0 +1,64 @@
+1636279109255	geckodriver	INFO	Listening on 127.0.0.1:65483
+1636279179020	geckodriver	INFO	Listening on 127.0.0.1:65490
+1636279182088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65491" "-no-remote" "-profile" "C:\\Users\\97252\\AppData\\Local\\Temp\\rust_mozprofilenBciih"
+1636279182585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\97252\\AppData\\Local\\Temp\\rust_mozprofilenBciih\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65491/devtools/browser/ebcf34c8-aa75-415b-819f-dee6116c48b8
+1636279187676	Marionette	INFO	Listening on port 65496
+1636279187957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/api/admin, line 968: SyntaxError: missing } after function body
+JavaScript note: https://phptravels.net/api/admin, line 942: { opened at line 942, column 16
+1636279505176	Marionette	INFO	Stopped listening on port 65496
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636279517818	geckodriver	INFO	Listening on 127.0.0.1:49198
+1636279520891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49199" "-no-remote" "-profile" "C:\\Users\\97252\\AppData\\Local\\Temp\\rust_mozprofilegyn3Jv"
+1636279521691	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\97252\\AppData\\Local\\Temp\\rust_mozprofilegyn3Jv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49199/devtools/browser/ff6d3441-45d5-477c-ba8b-6cbc80f5af5e
+1636279526915	Marionette	INFO	Listening on port 49204
+1636279527280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/api/admin, line 968: SyntaxError: missing } after function body
+JavaScript note: https://phptravels.net/api/admin, line 942: { opened at line 942, column 16
+1636279678273	Marionette	INFO	Stopped listening on port 49204
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49260" "-no-remote" "-profile" "C:\\Users\\97252\\AppData\\Local\\Temp\\rust_mozprofileYzf9Wt"
+1636279679039	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\97252\\AppData\\Local\\Temp\\rust_mozprofileYzf9Wt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49260/devtools/browser/9d0ad799-f9a9-488a-8d3a-6fa79342caba
+1636279684402	Marionette	INFO	Listening on port 49265
+1636279684497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636279688767	Marionette	INFO	Stopped listening on port 49265
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636279691526	geckodriver	INFO	Listening on 127.0.0.1:49314
+1636279694600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49315" "-no-remote" "-profile" "C:\\Users\\97252\\AppData\\Local\\Temp\\rust_mozprofileXha90z"
+1636279694976	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\97252\\AppData\\Local\\Temp\\rust_mozprofileXha90z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49315/devtools/browser/ff2590c1-e9b6-4e3c-aca9-2730be95674b
+1636279698341	Marionette	INFO	Listening on port 49320
+1636279698832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/api/admin, line 968: SyntaxError: missing } after function body
+JavaScript note: https://phptravels.net/api/admin, line 942: { opened at line 942, column 16
+1636279748280	Marionette	INFO	Stopped listening on port 49320
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636279817367	geckodriver	INFO	Listening on 127.0.0.1:49375
+1636279820462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49376" "-no-remote" "-profile" "C:\\Users\\97252\\AppData\\Local\\Temp\\rust_mozprofileX9TudP"
+1636279821095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\97252\\AppData\\Local\\Temp\\rust_mozprofileX9TudP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49376/devtools/browser/050d3a75-5e98-4a3e-9650-15969ab5af47
+1636279826102	Marionette	INFO	Listening on port 49381
+1636279826361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://phptravels.net/api/admin, line 968: SyntaxError: missing } after function body
+JavaScript note: https://phptravels.net/api/admin, line 942: { opened at line 942, column 16
+1636279848293	Marionette	INFO	Stopped listening on port 49381
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
